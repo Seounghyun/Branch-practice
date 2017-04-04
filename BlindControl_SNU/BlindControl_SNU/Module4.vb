@@ -5,3 +5,4 @@ Module Module4
     '예를 들면, 삼각 함수. 
     '
 End Module
+이 부분을 수정해보겠습니다.
